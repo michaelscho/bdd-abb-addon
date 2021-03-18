@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xt:extensions xmlns:xt="http://www.oxygenxml.com/ns/extension"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.oxygenxml.com/ns/extension http://www.oxygenxml.com/ns/extension/extensions.xsd">
+    <xt:extension id="bdd-abb">
+        <xt:location href="abb-0.0.5.zip"/>
+        <xt:version>1.0.0</xt:version>
+        <xt:oxy_version>22.0+</xt:oxy_version>
+        <xt:type>plugin</xt:type>
+        <xt:author>Michael Schonhardt</xt:author>
+        <xt:name>bdd-abb</xt:name>
+        <xt:description xmlns="http://www.w3.org/1999/xhtml">Plugin für die Auflösung von Abkürzungen</xt:description>
+        <xt:license>
+<![CDATA[
+
+END USER LICENSE AGREEMENT
+
+]]></xt:license>
+    </xt:extension>
+    
+    <xt:extension id="bdd-charview">
+        <xt:location href="char-view-0.0.3.zip"/>
+        <xt:version>1.0.0</xt:version>
+        <xt:oxy_version>22.0+</xt:oxy_version>
+        <xt:type>plugin</xt:type>
+        <xt:author>Michael Schonhardt</xt:author>
+        <xt:name>bdd-charview</xt:name>
+        <xt:description xmlns="http://www.w3.org/1999/xhtml">Plugin für das EInfügen von Sonderzeichen im Text- und Autormodus</xt:description>
+        <xt:license>
+            <![CDATA[
+
+END USER LICENSE AGREEMENT
+
+]]></xt:license>
+    </xt:extension>
+    
+
+    
+    <xt:extension id="bdd-transkription">
+        <xt:location href="bdd-transkription.zip"/>
+        <xt:version>1.0.0</xt:version>
+        <xt:oxy_version>22.0+</xt:oxy_version>
+        <xt:type>framework</xt:type>
+        <xt:author>Michael Schonhardt</xt:author>
+        <xt:name>bdd-transkription</xt:name>
+        <xt:description xmlns="http://www.w3.org/1999/xhtml">Framework und Projektdatei für die Erstellung von Transkriptionen im Projekt BDD</xt:description>
+        <xt:license>
+            <![CDATA[
+
+END USER LICENSE AGREEMENT
+
+]]></xt:license>
+    </xt:extension>
+
+
+
+</xt:extensions>
