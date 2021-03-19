@@ -5,7 +5,7 @@
     <xt:extension id="bdd-abb">
         <xt:location href="abb-0.0.5.zip"/>
         <xt:version>1.0.0</xt:version>
-        <xt:oxy_version>22.0+</xt:oxy_version>
+        <xt:oxy_version>21.0+</xt:oxy_version>
         <xt:type>plugin</xt:type>
         <xt:author>Michael Schonhardt</xt:author>
         <xt:name>bdd-abb</xt:name>
@@ -21,7 +21,7 @@ END USER LICENSE AGREEMENT
     <xt:extension id="bdd-charview">
         <xt:location href="char-view-0.0.3.zip"/>
         <xt:version>1.0.0</xt:version>
-        <xt:oxy_version>22.0+</xt:oxy_version>
+        <xt:oxy_version>21.0+</xt:oxy_version>
         <xt:type>plugin</xt:type>
         <xt:author>Michael Schonhardt</xt:author>
         <xt:name>bdd-charview</xt:name>
@@ -39,7 +39,7 @@ END USER LICENSE AGREEMENT
     <xt:extension id="bdd-transkription">
         <xt:location href="bdd-transkription.zip"/>
         <xt:version>1.0.0</xt:version>
-        <xt:oxy_version>22.0+</xt:oxy_version>
+        <xt:oxy_version>21.0+</xt:oxy_version>
         <xt:type>framework</xt:type>
         <xt:author>Michael Schonhardt</xt:author>
         <xt:name>bdd-transkription</xt:name>
